@@ -5,3 +5,4 @@ Welcome to the wonderful world of version control!
 Isn't this fun?  Or if not fun, at least pretty painless?
 
 1. Pierwsza zmiana tekstu
+2. Pierwsza zmiana tekstu na github
